@@ -131,7 +131,6 @@ Node.js 20.x / TypeScript 5.x
 - **N+1問題解消**: MongoDB $lookup, バルク操作
 - **Redisキャッシュ**: 多層キャッシュ戦略（5分〜30分TTL）
 - **Aggregation Pipeline**: 複雑なクエリの効率化
-- **ループアンローリング**: コサイン類似度計算の高速化
 
 ---
 
